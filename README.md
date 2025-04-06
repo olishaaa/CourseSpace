@@ -7,15 +7,15 @@ CourseSpace is an online learning website where users can browse and enroll in c
 - A responsive design with interactive elements such as pagination and sorting
 
 ## Visuals
-![Main page](image.png)
-![Courses page](image-1.png)
-![Contacts page](image-2.png)
+![Main page](src/img/image.png)
+![Courses page](src/img/image-1.png)
+![Contacts page](src/img/image-2.png)
 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/username/courseSpace.git
-   cd courseSpace
+   git clone https://autocode.git.epam.com/shamanovskaolha/capstone-project-template
+   cd capstone-project-template
 
 ## Usage
 Once the project is set up, you can browse courses, apply filters for various types of courses, and use the search functionality to find the most relevant courses. Detailed course information, including content, instructors, and difficulty levels, is available.
@@ -35,8 +35,8 @@ To set up the project locally and make contributions, follow these steps:
 Fork the repository on GitHub.
 Clone your forked repository:
 
-git clone https://github.com/your-username/courseSpace.git
-cd courseSpace
+git clone https://autocode.git.epam.com/shamanovskaolha/capstone-project-template
+cd capstone-project-template
 Create a new branch:
 
 git checkout -b feature-name
