@@ -1,0 +1,143 @@
+[
+	{
+	  "title": "Introduction to JavaScript",
+	  "description": "Learn the basics of JavaScript programming.",
+	  "image": "./img/course-2.jpg",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "HTML & CSS for Beginners",
+	  "description": "Learn HTML and CSS to build modern web pages.",
+	  "image": "./img/course-1.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "React for Beginners",
+	  "description": "Get started with React, a popular JavaScript library for building user interfaces.",
+	  "image": "./img/course-4.jpg",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "Advanced HTML & CSS",
+	  "description": "Take your HTML and CSS skills to the next level.",
+	  "image": "./img/course-5.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "JavaScript ES6+",
+	  "description": "Master the modern features of JavaScript, including ES6 syntax.",
+	  "image": "./img/course-6.jpg",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "Node.js Fundamentals",
+	  "description": "Learn how to build server-side applications with Node.js.",
+	  "image": "./img/course-7.png",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "Web Design for Beginners",
+	  "description": "Learn the principles of good web design and how to implement them.",
+	  "image": "./img/course-8.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "Responsive Web Design",
+	  "description": "Build web pages that work on any device using responsive design techniques.",
+	  "image": "./img/course-9.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "CSS Grid and Flexbox",
+	  "description": "Learn how to use CSS Grid and Flexbox to create modern layouts.",
+	  "image": "./img/course-10.png",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "Vue.js Basics",
+	  "description": "Get introduced to Vue.js, a popular framework for building user interfaces.",
+	  "image": "./img/course-11.jpg",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "Bootstrap for Responsive Design",
+	  "description": "Learn how to use the Bootstrap framework to build responsive websites.",
+	  "image": "./img/course-12.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "PHP for Web Development",
+	  "description": "Learn how to create dynamic websites using PHP.",
+	  "image": "./img/course-13.png",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "WordPress for Beginners",
+	  "description": "Learn how to build websites using the WordPress content management system.",
+	  "image": "./img/course-14.jpg",
+	  "link": "#",
+	  "category": "Design"
+	},
+	{
+	  "title": "JavaScript for Advanced Users",
+	  "description": "Take your JavaScript skills to the next level with advanced concepts.",
+	  "image": "./img/course-15.png",
+	  "link": "#",
+	  "category": "Development"
+	},
+	{
+	  "title": "Digital Marketing Fundamentals",
+	  "description": "Learn the basics of digital marketing, including SEO, SEM, and social media marketing.",
+	  "image": "./img/course-16.jpg",
+	  "link": "#",
+	  "category": "Marketing"
+	},
+	{
+	  "title": "SEO for Beginners",
+	  "description": "Learn the fundamentals of search engine optimization to improve website rankings.",
+	  "image": "./img/course-17.png",
+	  "link": "#",
+	  "category": "Marketing"
+	},
+	{
+	  "title": "Social Media Marketing",
+	  "description": "Master social media platforms to drive engagement and business growth.",
+	  "image": "./img/course-3.jpg",
+	  "link": "#",
+	  "category": "Marketing"
+	},
+	{
+	  "title": "Email Marketing Strategies",
+	  "description": "Learn how to build effective email marketing campaigns.",
+	  "image": "./img/course-18.png",
+	  "link": "#",
+	  "category": "Marketing"
+	},
+	{
+	  "title": "Content Marketing 101",
+	  "description": "Discover the basics of content marketing and how to create engaging content.",
+	  "image": "./img/course-19.jpg",
+	  "link": "#",
+	  "category": "Marketing"
+	},
+	{
+	  "title": "Google Analytics for Beginners",
+	  "description": "Learn how to use Google Analytics to track website performance and improve user experience.",
+	  "image": "./img/course-20.png",
+	  "link": "#",
+	  "category": "Marketing"
+	}
+ ]
+ 
