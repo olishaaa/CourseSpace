@@ -7,9 +7,9 @@ CourseSpace is an online learning website where users can browse and enroll in c
 - A responsive design with interactive elements such as pagination and sorting
 
 ## Visuals
-![Main page](src/img/image.png)
-![Courses page](src/img/image-1.png)
-![Contacts page](src/img/image-2.png)
+![Main page](/img/image.png)
+![Courses page](/img/image-1.png)
+![Contacts page](/img/image-2.png)
 
 ## Installation
 
