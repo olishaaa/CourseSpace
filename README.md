@@ -14,7 +14,7 @@ CourseSpace is an online learning website where users can browse and enroll in c
 ## Installation
 
 1. Clone the repository:
-   git clone https://autocode.git.epam.com/shamanovskaolha/capstone-project-template
+   git clone https://github.com/olishaaa/CourseSpace
    cd capstone-project-template
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ To set up the project locally and make contributions, follow these steps:
 Fork the repository on GitHub.
 Clone your forked repository:
 
-- git clone https://autocode.git.epam.com/shamanovskaolha/capstone-project-template
+- git clone https://github.com/olishaaa/CourseSpace
 cd capstone-project-template
 Create a new branch:
 - git checkout -b feature-name
